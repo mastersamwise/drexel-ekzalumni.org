@@ -1,0 +1,15 @@
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\bin\Debug\net7.0\DrexelEkzUtilities.exe
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\bin\Debug\net7.0\DrexelEkzUtilities.deps.json
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\bin\Debug\net7.0\DrexelEkzUtilities.runtimeconfig.json
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\bin\Debug\net7.0\DrexelEkzUtilities.dll
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\bin\Debug\net7.0\DrexelEkzUtilities.pdb
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.csproj.AssemblyReference.cache
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.AssemblyInfoInputs.cache
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.AssemblyInfo.cs
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.csproj.CoreCompileInputs.cache
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.dll
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\refint\DrexelEkzUtilities.dll
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.pdb
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\DrexelEkzUtilities.genruntimeconfig.cache
+C:\Users\Nik\Dropbox\LXA\drexel-ekzalumni_site\code\utilities\DrexelEkzUtilities\DrexelEkzUtilities\obj\Debug\net7.0\ref\DrexelEkzUtilities.dll

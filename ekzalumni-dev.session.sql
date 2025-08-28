@@ -1,0 +1,1 @@
+select * from members where graduation_year <> NULL;

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oTONr57uS+Yo1HYVXe3vBbdEmKLVXXTyVG6m9xh9nJuaaJtbMsBHK/RHyJZj3gjk1kBElIcXxEcNlSlI8AFmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nik\\Dropbox\\LXA\\drexel-ekzalumni_site\\code\\utilities\\DrexelEkzUtilities\\DrexelEkzUtilities\\DrexelEkzUtilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nik\\.nuget\\packages\\documentformat.openxml\\3.2.0\\documentformat.openxml.3.2.0.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\documentformat.openxml.framework\\3.2.0\\documentformat.openxml.framework.3.2.0.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\sylvan.data\\0.2.16\\sylvan.data.0.2.16.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\sylvan.data.excel\\0.4.25\\sylvan.data.excel.0.4.25.nupkg.sha512",
+    "C:\\Users\\Nik\\.nuget\\packages\\system.io.packaging\\8.0.1\\system.io.packaging.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+- Run tables/tables_delete.sql
+- Run tables/tables.sql
+- Run convert_raw_data/insert_lxa_script_2.sql
+- Run convert_raw_data/1_scrub_raw_table_data.sql
+
+
+- Run insert_data/insert_alumni_board_positions.sql
+- Run insert_data/insert_enums.sql
+- Run insert_data/insert_event_locations.sql
+- Run insert_data/insert_members.sql
+- Run convert_raw_data/insert_members_from_raw.sql
+- Run convert_raw_data/insert_lxa_info.sql
+- Run convert_raw_data/insert_births_deaths.sql
+- Run convert_raw_data/insert_addresses.sql
+- Run convert_raw_data/insert_emails.sql
+- Run convert_raw_data/insert_phone_numbers.sql
+- Run convert_raw_data/insert_methods_of_contact.sql
+- Run convert_raw_data/insert_social_media.sql     -- not quite working yet
+
+- Turned [lxa_info].[zeta_number] into INT
+
+To Do
+
+- alumni_board_history
+- events
+- alumni_dues
+
+- change_histories
