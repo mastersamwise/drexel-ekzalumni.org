@@ -45,7 +45,9 @@ VALUES
     ('Officer'),
     ('Chairman'),
     ('Member'),
-    ('House Management'),
+    ('House Manager'),
     ('Director'),
     ('High Pi'),
-    ('Mentor');
+    ('Mentor'),
+    ('Treasurer'),
+    ('Secretary');

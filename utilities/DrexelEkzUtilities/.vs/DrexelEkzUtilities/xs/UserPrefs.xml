@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{5A54C038-BCA7-4F69-940D-04B37577C9D2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DrexelEkzUtilities/ExcelReader.cs">
+    <Files>
+      <File FileName="DrexelEkzUtilities/ExcelReader.cs" Line="7" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DrexelEkzUtilities" expanded="True">
+            <Node name="DrexelEkzUtilities" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DrexelEkzUtilities PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

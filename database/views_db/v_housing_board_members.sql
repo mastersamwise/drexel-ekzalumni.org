@@ -1,5 +1,5 @@
 
-CREATE VIEW v_alumni_board_positions AS
+CREATE VIEW v_housing_board_members AS
 SELECT  p.position,
         m.full_name,
         h.start_date,
